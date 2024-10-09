@@ -15,10 +15,10 @@ string cleanWord(const string &word) {
     return cleaned;
 }
 
-// Simple implementation of Porter Stemmer
+
 string stemWord(const string &word) {
     string stemmed = word;
-    // This is a simplified version; real implementations are more complex.
+   
     // Remove common suffixes
     if (stemmed.size() > 4) { // Only stem words with length > 4 to avoid excessive shortening
         if (stemmed.substr(stemmed.size() - 3) == "ing")
