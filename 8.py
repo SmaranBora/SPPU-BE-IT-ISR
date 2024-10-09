@@ -28,7 +28,7 @@ def display_weather_info(weather_data):
         print("No weather data to display.")
 
 def main():
-    api_key = '15eea7cf278a6ef252cc7affc8320469'  # Replace with your actual API key
+    api_key = '15eea7cf278a6ef252cc7affc8320469' 
     city = input("Enter the city: ")  # Get city name from user
     weather_data = get_weather_data(city, api_key)  # Fetch weather data
     display_weather_info(weather_data)  # Display weather info
