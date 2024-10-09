@@ -1,0 +1,1 @@
+Artificial intelligence is a broad field that encompasses various techniques, including machine learning. Machine learning enables systems to learn from data and improve their performance over time. Applications include healthcare, finance, and more.

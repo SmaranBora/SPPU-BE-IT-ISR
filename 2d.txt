@@ -1,0 +1,1 @@
+Data science combines statistical methods, algorithms, and machine learning to extract insights and knowledge from structured and unstructured data. It plays a crucial role in decision-making processes across industries.
